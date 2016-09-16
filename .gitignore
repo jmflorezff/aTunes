@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.exe
+win_tools
+bin
+out
+aTunes.jar
